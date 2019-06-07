@@ -1,0 +1,85 @@
+.header{
+	background-image: url(fone2.jpg);
+	height: 900px;
+	background-size: cover;
+	background-position: center;
+	padding-top: 150px;
+}
+.box{
+	height: 450px;
+	width: 450px;
+	background-image: url(logo.jpg);
+	background-size: cover;
+	background-position: center;
+	margin-right: auto;
+	margin-left: auto;
+}
+.texts{
+	text-align: center;
+	margin-top: 55px;
+	font-size: 70px;
+	color: red;
+}
+.admin{
+	height: 825px;
+	padding-top: 1px;
+	background: gray;
+}
+.mb{
+	height: 200px;
+	width: 2500px;
+	margin-top: 50px;
+	margin-left: 100px;
+	display: flex;
+	font-size: 25px;
+}
+.mb1{
+	height: 150px;
+	width: 150px;
+}
+.plus{
+	height: 900px;
+	display: flex;
+	padding-top: 50px;
+	font-size: 25px;
+}
+.prium{
+	height: 600px;
+	width: 850px;
+	margin-left: 50px;
+}
+.otzuv{
+	height: 450px;
+	background: #DCDCDC;
+}
+.otzuv p{
+	font-size: 25px;
+}
+.kontact{
+	height: 370px;
+	background: black;
+}
+a{
+	text-decoration: none;
+	margin-left: 50px;
+	margin-top: 50px;
+	color: white;
+}
+.ag{
+	padding-top: 25px;
+}
+.bigbox3{
+	background-image: url(admin2.jpg);
+	background-size: cover;
+	background-position: center;
+}
+.bigbox2{
+	background-image: url(admin3.jpg);
+	background-size: cover;
+	background-position: center;
+}
+.bigbox1{
+	background-image: url(admin1.jpg);
+	background-size: cover;
+	background-position: center;
+}
